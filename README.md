@@ -16,7 +16,7 @@ You can view the live website [here](https://sujalbochkar.github.io/scoop-house/
 
 - HTML
 - CSS
-- JavaScript (if applicable)
+- JavaScript
 
 ## Setup Instructions
 
