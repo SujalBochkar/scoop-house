@@ -12,6 +12,9 @@ You can view the live website [here](https://sujalbochkar.github.io/scoop-house/
 - **Responsive Design**: The website is designed to provide an optimal viewing experience across various devices.
 - **Contact Information**: Easily get in touch with the creators through provided social media links.
 
+![image](https://github.com/user-attachments/assets/8d68daf6-4cca-4754-b7d1-a31ae2564ce3)
+
+
 ## Technologies Used
 
 - HTML
